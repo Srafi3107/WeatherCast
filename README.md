@@ -10,34 +10,24 @@ A sleek, modern, and fully responsive Weather App built using React and Tailwind
 
 Displays:
 
-Temperature & Feels-like temperature
+1. Temperature & Feels-like temperature
 
-Humidity
+2. Humidity
 
-Wind Speed
+3. Wind Speed
 
-Atmospheric Pressure
+4. Atmospheric Pressure
 
-Sunrise & Sunset times (localized)
+5. Sunrise & Sunset times (localized)
 
-🖼️ Stunning UI with Tailwind CSS
-
-Responsive design optimized for mobile, tablet, and desktop
-
-Clean and modern layout
+🖼️ Stunning UI with Tailwind CSS and Responsive design optimized for mobile, tablet, and desktop
 
 
-🎨 Animated Backgrounds
+🎨 Animated Backgrounds:  Eye-catching animated gradient backgrounds that enhance the look and feel of the app.
 
-Eye-catching animated gradient backgrounds that enhance the look and feel of the app.
+🧊 Glassmorphism Card Design:  Elegant weather display with a frosted-glass effect for a futuristic UI.
 
-🧊 Glassmorphism Card Design
-
-Elegant weather display with a frosted-glass effect for a futuristic UI.
-
-🔍 Interactive Search Functionality
-
-Easily search for any city and retrieve its current weather data in seconds.
+🔍 Interactive Search Functionality:  Easily search for any city and retrieve its current weather data in seconds.
 
 🛠️ Tech Stack
 Frontend: React
